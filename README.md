@@ -1,8 +1,8 @@
 🌍TripOra — Smart Travel Itinerary Planner
 
-WayOra is a smart, all-in-one travel planner that creates personalized itineraries for your trips. Explore destinations, hotels, restaurants, and flights — all in one platform.
+TripOra is a smart, all-in-one travel planner that creates personalized itineraries for your trips. Explore destinations, hotels, restaurants, and flights — all in one platform.
 
-🔗 Live Demo → https://wayora.netlify.app
+🔗 Live Demo → https://Tripora.netlify.app
 
 ✨ Features
 🎯 Core Functionality
